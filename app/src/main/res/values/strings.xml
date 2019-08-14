@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">testapp</string>
+    <string name="second_number">Second Number</string>
+    <string name="addition">ADDITION</string>
+    <string name="add">add</string>
+    <string name="ans_is">Ans is:</string>
+    <string name="first_number">First Number</string>
+</resources>
